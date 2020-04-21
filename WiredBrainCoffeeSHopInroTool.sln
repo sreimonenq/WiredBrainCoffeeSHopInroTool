@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffeeSHopInroTool", "WiredBrainCoffeeSHopInroTool\WiredBrainCoffeeSHopInroTool.csproj", "{4476795D-6BF7-43CB-9523-92C931FE9A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4476795D-6BF7-43CB-9523-92C931FE9A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4476795D-6BF7-43CB-9523-92C931FE9A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4476795D-6BF7-43CB-9523-92C931FE9A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4476795D-6BF7-43CB-9523-92C931FE9A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C84421-297A-482C-A047-CFC408EA879B}
+	EndGlobalSection
+EndGlobal
